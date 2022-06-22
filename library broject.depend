@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1590247917 source:d:\users\pc\desktop\library broject\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
